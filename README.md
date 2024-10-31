@@ -4,4 +4,5 @@ just a test
 
     -feature-A
     -sove the conflict
+    - feature-C
 
