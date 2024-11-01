@@ -6,3 +6,4 @@ just a test
     -sove the conflict
     - feature-C
 
+    --feature-D
